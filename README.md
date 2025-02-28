@@ -62,8 +62,4 @@ Feel free to fork the repository and submit pull requests.
 This project is licensed under the MIT License.
 
 ---
-
-## 🔗 GitHub Repository
-[https://github.com/yourusername/book-lending-app]
-
 ---
